@@ -93,6 +93,7 @@ const VOUCHER_COPY: Record<VoucherLocale, VoucherCopy> = {
       'Wear closed-toe shoes and warm, layered clothing. Dawn launches are cold and the ground is often wet with dew.',
       'Follow all instructions from your pilot and ground crew at all times. Operating drones and throwing any object from the basket are strictly prohibited.',
       'Please be ready for pickup at your hotel on time. Late arrivals may miss the flight and forfeit the booking.',
+      'The prices shown apply to cash payments; card payments are subject to a surcharge.',
       'This voucher is valid only for the confirmed flight date. Please keep your reference code for all correspondence.'
     ],
     footer: 'Present this voucher on the day of your flight. We look forward to flying with you.'
@@ -114,6 +115,7 @@ const VOUCHER_COPY: Record<VoucherLocale, VoucherCopy> = {
       'Kapalı ayakkabı ve katmanlı, sıcak kıyafet giyin. Gün doğumu kalkışları soğuktur ve zemin genellikle çiyle ıslaktır.',
       'Pilotunuzun ve yer ekibinin tüm talimatlarına her zaman uyun. Drone kullanmak ve sepetten herhangi bir cisim atmak kesinlikle yasaktır.',
       'Lütfen otelinizden alınmak üzere zamanında hazır olun. Geç kalanlar uçuşu kaçırabilir ve rezervasyon hakkını kaybedebilir.',
+      'Belirtilen fiyatlar nakit ödemeler için geçerlidir; kredi kartı ödemelerinde fark uygulanır.',
       'Bu voucher yalnızca onaylanan uçuş tarihi için geçerlidir. Lütfen referans kodunuzu tüm yazışmalar için saklayın.'
     ],
     footer: 'Bu voucher\'ı uçuş gününde ibraz edin. Sizinle uçmayı dört gözle bekliyoruz.'
@@ -135,6 +137,7 @@ const VOUCHER_COPY: Record<VoucherLocale, VoucherCopy> = {
       'Tragen Sie geschlossene Schuhe und warme Kleidung in Schichten. Starts bei Sonnenaufgang sind kalt und der Boden ist oft feucht vom Tau.',
       'Befolgen Sie jederzeit alle Anweisungen Ihres Piloten und der Bodencrew. Das Betreiben von Drohnen und das Werfen von Gegenständen aus dem Korb sind strengstens untersagt.',
       'Bitte seien Sie pünktlich zur Abholung an Ihrem Hotel bereit. Verspätungen können dazu führen, dass Sie den Flug verpassen und die Buchung verfällt.',
+      'Die angegebenen Preise gelten für Barzahlung; bei Kartenzahlung wird ein Aufschlag berechnet.',
       'Dieser Gutschein gilt nur für das bestätigte Flugdatum. Bitte bewahren Sie Ihren Referenzcode für jegliche Korrespondenz auf.'
     ],
     footer: 'Legen Sie diesen Gutschein am Flugtag vor. Wir freuen uns darauf, mit Ihnen zu fliegen.'
@@ -156,6 +159,7 @@ const VOUCHER_COPY: Record<VoucherLocale, VoucherCopy> = {
       'Portez des chaussures fermées et des vêtements chauds en couches. Les décollages à l\'aube sont froids et le sol est souvent humide de rosée.',
       'Suivez à tout moment les instructions de votre pilote et de l\'équipe au sol. L\'utilisation de drones et le lancement de tout objet depuis la nacelle sont strictement interdits.',
       'Veuillez être prêt à l\'heure pour la prise en charge à votre hôtel. Les retardataires peuvent manquer le vol et perdre leur réservation.',
+      'Les prix indiqués s\'appliquent aux paiements en espèces ; les paiements par carte sont soumis à un supplément.',
       'Ce bon n\'est valable que pour la date de vol confirmée. Veuillez conserver votre code de référence pour toute correspondance.'
     ],
     footer: 'Présentez ce bon le jour de votre vol. Nous avons hâte de voler avec vous.'
@@ -177,6 +181,7 @@ const VOUCHER_COPY: Record<VoucherLocale, VoucherCopy> = {
       'Usa zapatos cerrados y ropa de abrigo por capas. Los despegues al amanecer son fríos y el suelo suele estar húmedo de rocío.',
       'Sigue en todo momento las instrucciones de tu piloto y del equipo de tierra. Está terminantemente prohibido usar drones y arrojar cualquier objeto desde la barquilla.',
       'Prepárate a tiempo para la recogida en tu hotel. Quienes lleguen tarde pueden perder el vuelo y la reserva.',
+      'Los precios indicados se aplican a los pagos en efectivo; los pagos con tarjeta están sujetos a un recargo.',
       'Este bono solo es válido para la fecha de vuelo confirmada. Conserva tu código de referencia para cualquier comunicación.'
     ],
     footer: 'Presenta este bono el día de tu vuelo. Esperamos volar contigo.'
@@ -198,6 +203,7 @@ const VOUCHER_COPY: Record<VoucherLocale, VoucherCopy> = {
       '请穿着包脚鞋和保暖的多层衣物。日出起飞时天气寒冷，地面常有露水。',
       '全程请遵从飞行员和地勤人员的所有指示。严禁操作无人机或从吊篮中抛掷任何物品。',
       '请按时在酒店等候接送。迟到者可能错过飞行并丧失预订资格。',
+      '所示价格适用于现金支付；刷卡支付将收取附加费。',
       '本凭证仅在确认的飞行日期有效。请妥善保管您的预订编号，以备所有联系之用。'
     ],
     footer: '请在飞行当天出示本凭证。期待与您共飞。'
