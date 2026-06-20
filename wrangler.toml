@@ -1,0 +1,16 @@
+name = "masai-balloons-voucher-pdf"
+main = "src/index.ts"
+compatibility_date = "2026-05-21"
+compatibility_flags = ["nodejs_compat"]
+
+# Shared R2 bucket — MUST be the same bucket NuxtHub uses for the main app, so
+# the Noto fonts uploaded via the main app's /api/admin/fonts-seed are visible
+# here. Find the real bucket name in Cloudflare dashboard → R2 (NuxtHub names it
+# after the project) and replace the placeholder below.
+[[r2_buckets]]
+binding = "BLOB"
+bucket_name = "REPLACE_WITH_NUXTHUB_R2_BUCKET_NAME"
+
+# VOUCHER_SECRET is NOT stored here — set it as an encrypted secret:
+#   wrangler secret put VOUCHER_SECRET
+# and use the same value for the main app's NUXT_VOUCHER_WORKER_SECRET env var.
