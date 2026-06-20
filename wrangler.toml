@@ -9,7 +9,7 @@ compatibility_flags = ["nodejs_compat"]
 # after the project) and replace the placeholder below.
 [[r2_buckets]]
 binding = "BLOB"
-bucket_name = "REPLACE_WITH_NUXTHUB_R2_BUCKET_NAME"
+bucket_name = "born-hotel"
 
 # VOUCHER_SECRET is NOT stored here — set it as an encrypted secret:
 #   wrangler secret put VOUCHER_SECRET
